@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkabig&show_icons=true&locale=en" alt="hkabig" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkabig&" alt="hkabig" /></p>
+
+[![An image of @hkabig's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hkabig)](https://holopin.io/@hkabig)
