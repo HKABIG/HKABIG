@@ -27,3 +27,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HKABIG&show_icons=true&locale=en&layout=compact" alt="Ajay Gonepuri" /></p>
 
 [![An image of @hkabig's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hkabig)](https://holopin.io/@hkabig)
+
+![anime](https://user-images.githubusercontent.com/70134418/226198536-03727838-e636-43f2-92f7-773873911c42.gif) 
